@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <title>Transformer LLM</title>
+</head>
+<body>
+    <h1>Transformer LLM Web</h1>
+    <input id="userInput" type="text" placeholder="Nachricht eingeben..." />
+    <button onclick="send()">Senden</button>
+    <div id="output"></div>
+
+    <script>
+      async function send() {
+        const input = document.getElementById("userInput").value;
+        const res = await fetch("/api/evaluate", {
+          method: "POST",
+          headers: { "Content-Type": "text/plain" },
+          body: input
+        });
+        const text = await res.text();
+        document.getElementById("output").innerText = text;
+      }
+    </script>
+</body>
+</html>

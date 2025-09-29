@@ -1,0 +1,7 @@
+C:\Users\beatg\TransformerWeb\bin\Release\net8.0\publish\TransformerWeb.exe
+C:\Users\beatg\TransformerWeb\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\beatg\TransformerWeb\bin\Release\net8.0\publish\appsettings.json
+C:\Users\beatg\TransformerWeb\bin\Release\net8.0\publish\TransformerWeb.dll
+C:\Users\beatg\TransformerWeb\bin\Release\net8.0\publish\TransformerWeb.deps.json
+C:\Users\beatg\TransformerWeb\bin\Release\net8.0\publish\TransformerWeb.runtimeconfig.json
+C:\Users\beatg\TransformerWeb\bin\Release\net8.0\publish\TransformerWeb.pdb

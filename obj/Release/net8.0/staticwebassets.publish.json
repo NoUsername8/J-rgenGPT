@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "wu1sxHsx0zhWQj2WWEaSaZ49C6VxpnYA/RX4I2T34mk=",
+  "Source": "TransformerWeb",
+  "BasePath": "_content/TransformerWeb",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TransformerWeb\\wwwroot",
+      "Source": "TransformerWeb",
+      "ContentRoot": "C:\\Users\\beatg\\TransformerWeb\\wwwroot\\",
+      "BasePath": "_content/TransformerWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\beatg\\TransformerWeb\\wwwroot\\index.html",
+      "SourceId": "TransformerWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\beatg\\TransformerWeb\\wwwroot\\",
+      "BasePath": "_content/TransformerWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
